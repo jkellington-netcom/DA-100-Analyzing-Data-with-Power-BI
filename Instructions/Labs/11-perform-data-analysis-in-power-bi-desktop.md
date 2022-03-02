@@ -58,8 +58,7 @@ In this task you will setup the environment for the lab by signing in to Power B
 
  	![Picture 4](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image3.png)
 
-1. Leave the Microsoft Edge browser window open.
-
+1. Create a new Report named **Sales Exploration**.
 
 ## **Exercise 2: Create a Scatter Chart**
 
